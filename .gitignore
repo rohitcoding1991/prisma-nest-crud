@@ -51,4 +51,3 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 branch_structure.json
 
 !.env.example
-config.bat
